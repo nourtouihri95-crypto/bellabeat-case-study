@@ -36,7 +36,7 @@ Each dataset was uploaded into BigQuery as separate tables within the `bellabeat
 ## 3. SQL Scripts
 
 All queries used for the cleaning process are stored in the `/sql_scripts/` folder in this repository:
-- `data_cleaning_daily_activity.sql`
+- `data_cleaning_daily_activity_march_april.sql`
 - `data_cleaning_daily_activity_april_may.sql`
 
 ---
