@@ -10,6 +10,14 @@
 - Correlated steps and calories to measure how steps relate to calories burned.
 - Segmented users by activity level to help understand how active the target users are.
 
+## 3. SQL Scripts
+
+All queries used for the cleaning process are stored in this repository:
+- `data_aggregation_daily_activity_march_april.sql`
+- `data_aggregation_daily_activity_april_may.sql`
+
+---
+
 ### 🧠 Key Insights
 
 **1️⃣ General Activity Profile (`overview_stats.sql`)**  
