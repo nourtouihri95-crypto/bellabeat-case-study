@@ -34,7 +34,7 @@ Apply these insights to Bellabeat’s **Leaf wellness tracker** to help the comp
 |-----------|-------|
 | Data Storage & Query | Google BigQuery |
 | Data Cleaning & Analysis | RStudio (tidyverse, dplyr, ggplot2) |
-| Visualization | Tableau, R ggplot2 |
+| Visualization | R ggplot2 |
 | Documentation | Markdown, GitHub |
 | Dataset | Fitbit Fitness Tracker Data (Kaggle, CC0 Public Domain) |
 
