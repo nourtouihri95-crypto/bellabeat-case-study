@@ -29,35 +29,52 @@ Apply these insights to Bellabeat’s **Leaf wellness tracker** to help the comp
 
 ---
 
-## 🧰 Tools & Technologies
-- **RStudio** → Data cleaning, analysis, and visualization  
-- **BigQuery / SQL** → Querying and aggregating large datasets  
-- **Excel** → Initial exploration and validation  
-- **Tableau** → Dashboard and visualization  
+## 🧰 Tools Used
+| Category | Tools |
+|-----------|-------|
+| Data Storage & Query | Google BigQuery |
+| Data Cleaning & Analysis | RStudio (tidyverse, dplyr, ggplot2) |
+| Visualization | Tableau, R ggplot2 |
+| Documentation | Markdown, GitHub |
+| Dataset | Fitbit Fitness Tracker Data (Kaggle, CC0 Public Domain) |
 
 ---
 
-## 🔍 Analysis Process
-The project follows the six phases of the data analysis process:  
-1. **Ask** – Define the business problem and stakeholders  
-2. **Prepare** – Import, inspect, and clean the dataset  
-3. **Process** – Transform and validate data for analysis  
-4. **Analyze** – Explore patterns in activity, sleep, and usage  
-5. **Share** – Create visualizations and dashboard  
-6. **Act** – Present recommendations to improve marketing  
+## 📊 Key Deliverables
+- **Data Cleaning:** BigQuery SQL scripts for preparation and validation  
+- **Analysis:** Insights into user activity levels, sedentary patterns, and correlations  
+- **Visualizations:** RStudio charts (bar, pie, scatter, and donut charts)  
+- **Recommendations:** Strategic actions for Bellabeat based on user trends  
 
 ---
 
-## 💡 Key Insights *(to be updated later)*
-- Most Fitbit users are most active between **5–8 PM** on weekdays.  
-- Users with consistent sleep routines have higher activity levels overall.  
-- Weekend engagement drops significantly for users with inconsistent routines.  
+## 📈 Main Insights
+- Users are more active midweek (Tuesday–Thursday).  
+- ~45% of users are low-active or sedentary.  
+- Steps and calories show a strong correlation (r ≈ 0.56–0.8).  
+- Gradual improvement in user activity from March–April to April–May.  
+- Weekday vs weekend behavior remains consistent across periods.  
 
 ---
 
-## 🎯 Recommendations *(to be expanded after analysis)*
-- Develop **personalized notifications and daily goals** for Leaf Tracker users.  
-- Target **weekday campaigns** when user activity is highest.  
+## 💡 Business Recommendations
+- Encourage weekend activity with **personalized challenges**.  
+- Add **activity summaries and progress comparisons** to the app dashboard.  
+- Implement **gamified features** to increase engagement.  
+- Use **data-driven marketing** emphasizing real progress stories.
+
+Full recommendations available in [`act_phase.md`](./act_phase.md).
+
+---## 🧩 Author
+**Nour Touihri**  
+Bachelor’s Student in Business Intelligence  
+📍 Focus: Data Analysis, Business Intelligence, and Data Visualization  
+
+---
+
+## 🏁 License
+This project uses **public data** under CC0 License.  
+You are free to reference, fork, or extend this analysis with proper attribution.
 - Introduce a **“sleep consistency” challenge** to encourage regular habits.
 
 ---
