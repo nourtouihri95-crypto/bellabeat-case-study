@@ -5,8 +5,7 @@ This phase documents the visual insights derived from the **BellaBeat Smart Devi
 Both periods were analyzed using RStudio for data cleaning, transformation, and visualization.  
 Each visualization is saved in the repository and described in this document for clarity and interpretation.
 
-All generated visualizations are uploaded in the GitHub repository under the folder  
-**`data_visualization_documentation`**.
+All generated visualizations are uploaded in this GitHub repository. 
 
 ---
 
